@@ -1,2 +1,9 @@
-#!/bin/bash
-python3 $PYFILE
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Sep 20 02:07:02 2022
+
+@author: agoa0
+"""
+
+#!/bin/bash/python3 
+"$PYFILE"
